@@ -1,0 +1,10 @@
+{
+    "program": "aleofinance.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBU6m6XNx9wyB7MwdEJkwUQvs65pnZYKvLfkwSUNivXWG",
+        "address": "aleo1lk5dp9fn6r5j44kxr54zsvaq6qal89spkj3cjw02szle5wzcagxs24pmk5"
+    },
+    "license": "MIT"
+}
