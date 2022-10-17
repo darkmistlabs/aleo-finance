@@ -1,4 +1,5 @@
 # Aleo Finance
+Brings Aleo to DeFi, we are making stake pool for the POS miners.
 
 ## Build Guide
 
